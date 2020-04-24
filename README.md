@@ -10,7 +10,7 @@ TensorFlow-GPU/Keras under Ubuntu 20.04 NVIDIA On Demand Mode
 
 (tf2) ... ~$ jupyter notebook
 
-<img src='./Screenshot from 2020-04-24 17-47-08.png' align='center'>
+<img src='./Screenshot from 2020-04-24 17-47-08.png' align='center' width=600 height=200 />
 
 ## 结束时释放显存
 
@@ -22,4 +22,4 @@ TensorFlow-GPU/Keras under Ubuntu 20.04 NVIDIA On Demand Mode
 
 ... ~$ kill -9 XXXX
 
-<img src='./Screenshot from 2020-04-24 18-08-21.png' align='center' width=600 height=400>
+<img src='./Screenshot from 2020-04-24 18-13-57.png' align='center' width=600 height=400 />
