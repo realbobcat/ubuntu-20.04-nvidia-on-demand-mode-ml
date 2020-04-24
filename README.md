@@ -1,8 +1,8 @@
-# ubuntu-20.04-nvidia-on-demand-mode-ml
+## ubuntu-20.04-nvidia-on-demand-mode-ml
 
-TensorFlow-GPU/Keras under Ubuntu 20.04 NVIDIA On Demand Mode
+TensorFlow-GPU/Keras under Ubuntu 20.04 NVIDIA-'On Demand Mode' setting
 
-## 运行时执行
+### 运行时执行
 
 ... ~$ alias nvrun="\_\_NV_PRIME_RENDER_OFFLOAD=1 \_\_GLX_VENDOR_LIBRARY_NAME=nvidia"
 
@@ -12,7 +12,7 @@ TensorFlow-GPU/Keras under Ubuntu 20.04 NVIDIA On Demand Mode
 
 <img src='./Screenshot from 2020-04-24 17-47-08.png' align='center' />
 
-## 结束时释放显存
+### 结束时释放显存
 
 先关闭conda，然后运行
 
